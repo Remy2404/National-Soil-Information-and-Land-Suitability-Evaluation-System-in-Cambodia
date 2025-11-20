@@ -1,18 +1,18 @@
 Soil_Type,Province_Name,Rice_Yield_Ton_Ha,Cassava_Yield_Ton_Ha,Mango_Density,Soil_Crop_Match,Cluster_Label,Cluster_Name
 Acid Lithosols,Mondolkiri,2.541168988591605,14.828160165372797,22.713637334632285,Conservation,0,Industrial Crop Zone
 Alluvial Lithosols,Kratie,3.916145155592091,14.744427686266667,31.758971745148713,Conservation,3,Rice Bowl Zone
-Alumisols,Ratanakiri,3.3638900372842313,10.171942605576092,28.45545349848576,General Agriculture,3,Rice Bowl Zone
+Alumisols,Ratanakiri,3.3638900372842313,10.171942605576092,28.45545349848576,General Agriculture,1,Rice Bowl Zone
 Basic Lithosols,Stung Treng,3.723705789444759,11.293899908000085,24.473038620786248,Conservation,3,Rice Bowl Zone
 Brown Alluvial Soils,Kampong Cham,3.96398788362281,10.998368910791799,78.17507766587352,Fruit Zone,2,Fruit Hub
-Brown hydromorphics,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
-Coastal Complex,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
-Cultural hydromorphics,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
-Great Lake,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
-Grey hydromorphics,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
-Lacustrine Alluvial Soils,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
-Latosols,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
-Planosols,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
-Plinthite podzols,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
-Plinthitic hydromorphics,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
-Red-yellow podzols,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
-Regurs,,0.0,0.0,0.0,General Agriculture,1,Low Potential Zone
+Brown hydromorphics,Kampong Cham,3.96398788362281,10.998368910791799,78.17507766587352,Fruit Zone,2,Fruit Hub
+Coastal Complex,Preah Sihanouk,2.8636499344142012,13.421165132560784,69.72425054911577,Fruit Zone,2,Fruit Hub
+Cultural hydromorphics,Kandal,2.616167224336399,13.037724259507192,55.87399872866511,Fruit Zone,0,Industrial Crop Zone
+Great Lake,Kampong Thom,2.8119890406724055,10.232252063599988,73.68964102565893,Fruit Zone,1,Rice Bowl Zone
+Grey hydromorphics,Prey Veng,3.1084844859190754,10.610191174223894,36.85607058124285,General Agriculture,3,Rice Bowl Zone
+Lacustrine Alluvial Soils,Kandal,2.616167224336399,13.037724259507192,55.87399872866511,Fruit Zone,0,Industrial Crop Zone
+Latosols,Kandal,2.616167224336399,13.037724259507192,55.87399872866511,Fruit Zone,0,Industrial Crop Zone
+Planosols,Kandal,2.616167224336399,13.037724259507192,55.87399872866511,Fruit Zone,0,Industrial Crop Zone
+Plinthite podzols,Kandal,2.616167224336399,13.037724259507192,55.87399872866511,Fruit Zone,0,Industrial Crop Zone
+Plinthitic hydromorphics,Kandal,2.616167224336399,13.037724259507192,55.87399872866511,Fruit Zone,0,Industrial Crop Zone
+Red-yellow podzols,Kandal,2.616167224336399,13.037724259507192,55.87399872866511,Fruit Zone,0,Industrial Crop Zone
+Regurs,Kandal,2.616167224336399,13.037724259507192,55.87399872866511,Fruit Zone,0,Industrial Crop Zone
